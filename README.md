@@ -9,7 +9,7 @@ I'm currently exploring the potential of neural networks, honing my skills in AI
 ## 💼 Professional Toolkit
 - **Languages**: Proficient in Python, Java, JavaScript, and C/C++.
 - **Frameworks**: Experienced with TensorFlow, Nuxt3, React, and Node.js.
-- **Databases**: Skilled in MongoDB & Supabase.
+- **Databases**: Skilled in MongoDB.
 - **Android Development**: Developing apps with Kotlin and Android Studio.
 
 ## 🏆 Featured Projects
@@ -20,5 +20,5 @@ TypeScript, and JavaScript.
 ## 🌐 Connect with Me
 Let's network and collaborate on exciting projects!
 - **LinkedIn**: [Ankit Agarwal](https://www.linkedin.com/in/ankit-agarwal-52552b237/)
-- **Email**: mailtoankit20@gmail.com
+
 
